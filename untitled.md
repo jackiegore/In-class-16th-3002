@@ -1,4 +1,5 @@
-Jacqueline Gore, Ethan Chang, Alex Ramirez
+Group 3
+Jacqueline Gore, Ethan Chang, Alex Ramirez, Eva Duvaris
 * define and compare/contrast temporal, rate, latency, synchronous, and phase codes
 * temporal: The tmeporal code is the timing of spikes that carrys certain information in different patterns. Unlike rate codes and synchronous codes temporal codes rely on exact timing.
 
