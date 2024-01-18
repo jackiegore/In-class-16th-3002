@@ -3,7 +3,7 @@ Group 3
 
 Jacqueline Gore, Ethan Chang, Alex Ramirez, Eva Duvaris, Steven Vacha
 * define and compare/contrast temporal, rate, latency, synchronous, and phase codes
-* temporal: The tmeporal code is the timing of spikes that carrys certain information in different patterns. Unlike rate codes and synchronous codes temporal codes rely on exact timing.
+* temporal: The temporal code is the timing of spikes that carrys certain information in different patterns. Unlike rate codes and synchronous codes temporal codes rely on exact timing.
 
 Rate: The rate codes carries information from the firing of the neurons at a specific rate that the strength of the signal relates to the amount of action potential. Unlike temporal coding this is a measure of overall amount of firing.
 
