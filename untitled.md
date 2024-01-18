@@ -10,3 +10,4 @@ Rate: The rate codes carries information from the firing of the neurons at a spe
     latency: This is the delay between the stimulus and the start of a neuron firing response. Unlike temporal or rate coding this is specifically related to delays.
     synchronous: This is the fifirng patterns of multiple neurons at the same time unlike temporal or rate which is only one neuron. 
     phase codes: This is relative timing of the neuronal spikes within a cycle unlike temporal which is on it's on. 
+* this is a bullet point
